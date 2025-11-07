@@ -7,6 +7,6 @@
 
  You can reach me by: <br />
  Mail: texranhamidzada@gmail.com<br />
- Phone: +4915510440166<br />
+ Phone: +4915510430166<br />
  Telegram: @snoitamalcxe5<br />
  WhatsApp: +994103145556
