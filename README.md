@@ -2,7 +2,7 @@
 
 # Hi, I'm Tehran Hamidzada
 
-Backend-focused **Developer** building practical web systems and APIs with Python (Django/FastAPI), PostgreSQL/SQLite, and modern deployment workflows.
+**Software Developer** building practical web systems and APIs with Python (Django/FastAPI), PostgreSQL/SQLite, and modern deployment workflows.
 
 <a href="mailto:texranhamidzada@gmail.com">texranhamidzada@gmail.com</a> •
 <a href="https://t.me/snoitamalcxe5">@snoitamalcxe5</a>
