@@ -32,7 +32,7 @@ REST API powering the Flutter app: markets, categories, products + filtering/sea
 
 ## Skills & tooling
 
-- Backend: Python, Django, FastAPI, REST APIs, CORS
+- Backend: Python, Django, FastAPI, REST APIs, CORS, Ocaml
 - Data: PostgreSQL (Neon), SQLite, SQLAlchemy, Pydantic schemas, relational modeling
 - Deployment: Render, Gunicorn, static files with WhiteNoise
 - Mobile: Flutter/Dart, Provider state management, localization (i18n)
@@ -50,3 +50,4 @@ A selection of CS assignments and algorithm-focused projects:
 - Edge detection (C): https://github.com/5exclamations/edge_detection
 - Rock-Paper-Scissors (MIPS): https://github.com/5exclamations/rock_paper_scissors_MIPS
 - To-Do List (HTML/CSS/JS): https://github.com/5exclamations/To_Do_List
+- MiniOcaml (Ocaml): https://github.com/5exclamations/miniOcaml
